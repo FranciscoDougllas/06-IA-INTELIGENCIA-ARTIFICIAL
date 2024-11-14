@@ -1,2 +1,2 @@
-# 06-IA-INTELIGENCIA-ARTIFICIAL
- 06 - IA-INTELIGENCIA ARTIFICIAL
+# IA_Inteligencia_Artificial
+ Estudos Inteligencia Artificial
